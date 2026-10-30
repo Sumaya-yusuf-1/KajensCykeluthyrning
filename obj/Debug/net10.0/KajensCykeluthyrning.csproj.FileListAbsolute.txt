@@ -1,0 +1,14 @@
+/Users/sumayayusuf/KajensCykeluthyrning/bin/Debug/net10.0/KajensCykeluthyrning
+/Users/sumayayusuf/KajensCykeluthyrning/bin/Debug/net10.0/KajensCykeluthyrning.deps.json
+/Users/sumayayusuf/KajensCykeluthyrning/bin/Debug/net10.0/KajensCykeluthyrning.runtimeconfig.json
+/Users/sumayayusuf/KajensCykeluthyrning/bin/Debug/net10.0/KajensCykeluthyrning.dll
+/Users/sumayayusuf/KajensCykeluthyrning/bin/Debug/net10.0/KajensCykeluthyrning.pdb
+/Users/sumayayusuf/KajensCykeluthyrning/obj/Debug/net10.0/KajensCykeluthyrning.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sumayayusuf/KajensCykeluthyrning/obj/Debug/net10.0/KajensCykeluthyrning.AssemblyInfoInputs.cache
+/Users/sumayayusuf/KajensCykeluthyrning/obj/Debug/net10.0/KajensCykeluthyrning.AssemblyInfo.cs
+/Users/sumayayusuf/KajensCykeluthyrning/obj/Debug/net10.0/KajensCykeluthyrning.csproj.CoreCompileInputs.cache
+/Users/sumayayusuf/KajensCykeluthyrning/obj/Debug/net10.0/KajensCykeluthyrning.dll
+/Users/sumayayusuf/KajensCykeluthyrning/obj/Debug/net10.0/refint/KajensCykeluthyrning.dll
+/Users/sumayayusuf/KajensCykeluthyrning/obj/Debug/net10.0/KajensCykeluthyrning.pdb
+/Users/sumayayusuf/KajensCykeluthyrning/obj/Debug/net10.0/KajensCykeluthyrning.genruntimeconfig.cache
+/Users/sumayayusuf/KajensCykeluthyrning/obj/Debug/net10.0/ref/KajensCykeluthyrning.dll
