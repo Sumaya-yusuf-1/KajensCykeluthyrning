@@ -126,3 +126,10 @@ Efter ändringen fungerade rabatten korrekt.
 
 Jag har också identifierat en möjlig förbättring: att införa unika kundnummer så att kunder med samma namn kan identifieras korrekt.
 
+En mer detaljerad beskrivning finns i VG-Analys.md.
+
+Inlämning
+
+Projektet är skapat som en individuell inlämningsuppgift i C#.
+
+Målet är att visa förståelse för klasser, objekt, arv, listor, metoder, villkor och felhantering.

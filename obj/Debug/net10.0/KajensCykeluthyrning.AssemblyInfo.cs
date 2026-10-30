@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KajensCykeluthyrning")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a7f77322854938fdea3c520d11f37c8ebf612aa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2a1bb64c37e2630920e05ae7a725fc7ef9587d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("KajensCykeluthyrning")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KajensCykeluthyrning")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
